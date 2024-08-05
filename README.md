@@ -16,6 +16,3 @@
 [![Delve-Into-C](https://github-readme-stats.vercel.app/api/pin/?username=chuangellow&repo=Delve-Into-C&theme=aura)](https://github.com/chuangellow/Delve-Into-C)
 [![OOP-and-Design-Pattern](https://github-readme-stats.vercel.app/api/pin/?username=chuangellow&repo=OOP-and-Design-Pattern&theme=aura)](https://github.com/chuangellow/OOP-and-Design-Pattern)
 [![NTU-JPEG-Decoder](https://github-readme-stats.vercel.app/api/pin/?username=chuangellow&repo=NTU-JPEG-Decoder&theme=aura)](https://github.com/chuangellow/NTU-JPEG-Decoder)
-
-## Leetcode
-[![Huang's Leetcode Stats](https://leetcard.jacoblin.cool/chuangellow/?theme=dark&ext=heatmap)](https://leetcode.com/chuangellow/)
