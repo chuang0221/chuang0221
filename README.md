@@ -1,7 +1,7 @@
 ## About Me
 - 📚 A second year MS student currently studying Computer Science at National Taiwan University.
 - 💻 Specializing in AI compiler research and model compression.
-- 👤 **Personal Page**: [chuang0221.github.io](https://chuang0221.github.io/)
+- 🎨 Passionate about creating efficient, scalable software solutions.
 
 ## Contact Information
 - 📧 **Email**: [r11944040@ntu.edu.tw](mailto:r11944040@ntu.edu.tw)
