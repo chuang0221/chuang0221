@@ -9,4 +9,4 @@
 
 ## Some Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuangellow&layout=compact&theme=aura&hide=Jupyter+Notebook,HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuang0221&layout=compact&theme=aura&hide=Jupyter+Notebook,HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
