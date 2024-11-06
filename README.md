@@ -5,7 +5,6 @@
 
 ## Contact Information
 - 📧 **Email**: [r11944040@ntu.edu.tw](mailto:r11944040@ntu.edu.tw)
-- 🌐 **LinkedIn**: [Chih-Hao Huang](https://www.linkedin.com/in/chihhaohuang/)
 
 ## Some Stats
 
